@@ -12,3 +12,9 @@ Developers using this project should already have:
 - JQuery
 - MySQL
 - File database: db_cenatal.sql
+##The application logic:
+- Administrator create inspections, inspection create health zones, health zone create hospitals.
+## Types of users:
+
+- Administrator : LYDIA and password: 11111
+- User type: Administrator,Inspection, health zone and Hospital.
