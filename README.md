@@ -8,8 +8,8 @@ CENATAL
 
 CENATAL is a web application for the centralization of birth data throughout the Democratic Republic of Congo where each province must have its own code to control the flow of data it generates and also allows the State to have reliable statistics with data collected at source.
 
+![accueil](https://user-images.githubusercontent.com/111361566/194841448-89fea6c4-7aeb-4e37-93e4-02a6ea68ab05.PNG)
 
-![preview img](/accueil.PNG)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Our application is hierarchical in the following way:
 
 Here is the demo of the management interface of the application.
 
-![preview img](/demo.PNG)
+![demo](https://user-images.githubusercontent.com/111361566/194841479-ac77aec9-fca5-4360-88e7-add3b9e96f8c.PNG)
 
 
 ## Getting Started
